@@ -24,6 +24,7 @@ To use my configurations you will need the following stuff installed on your sys
 1. The `Microsoft.PowerShell_profile.ps1` file contains individual profile settings files, each corresponding to a specific terminal profile (PowerShell), in this case it includes the aliases to start the Komorebi WM. To use it just open your $PROFILE file by typing ```notepad $PROFILE``` on your terminal and replace all the content with the Microsoft.PowerShell_profile.ps1 content file.
 
 2. The file terminal-settings.json is the main Windows Terminal configuration file that includes all the profiles and global settings. To use it just open your settings.json file by typing ```ctrl``` + ```Shift``` + ```,``` on your terminal and replace all the content with the terminal-settings.json content file.
+Replace all the `path/to/your/image` with your own path to the image you want to use as background.
 
 To update your ohmyposh theme, just open your $PROFILE file with notepad or any other editor and pase the configuration inside.
 
