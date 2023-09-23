@@ -3,6 +3,8 @@
 ![winterminal](https://github.com/Noe-ali/Env-Settings/assets/95829890/3b682138-93f3-4b41-a802-88fe77268b5a)
 
 Welcome to the Windows Terminal Profile and Settings Repository! This repository houses configuration files for my personal picks on Windows Terminal, Desktop and other stuff. This repository will still include other configurations on my PC, allowing you to easily personalize your terminal environment and make it more efficient and visually appealing.
+
+[Current Wallpaper: ](https://steamcommunity.com/sharedfiles/filedetails/?id=2808889473)
 ## Getting Started
 To use my configurations you will need the following stuff installed on your system (Currently Running Windows 11 22H2)
 - Windows Powershell
