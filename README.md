@@ -10,6 +10,7 @@ To use my configurations you will need the following stuff installed on your sys
 - Windows Powershell
 - [OhMyPosh](https://ohmyposh.dev/)
 - [Komorebi WM](https://github.com/LGUG2Z/komorebi)
+- [Rainmeter](https://www.rainmeter.net/)
 - [Droptop four](https://www.droptopfour.com/)
 
 ## Repository Structure
