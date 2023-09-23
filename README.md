@@ -26,9 +26,9 @@ To use my configurations you will need the following stuff installed on your sys
 2. The file terminal-settings.json is the main Windows Terminal configuration file that includes all the profiles and global settings. To use it just open your settings.json file by typing ```ctrl``` + ```Shift``` + ```,``` on your terminal and replace all the content with the terminal-settings.json content file.
 Replace all the `path/to/your/image` with your own path to the image you want to use as background.
 
-To update your ohmyposh theme, just open your $PROFILE file with notepad or any other editor and pase the configuration inside.
+3. To update your ohmyposh theme, just open your $PROFILE file with notepad or any other editor and pase the configuration inside.
 
-To initialize Komorebi, just use the command ```komorebic-start```
+4. To initialize Komorebi, just use the command ```komorebic-start```
 
 
 Use version control (e.g., Git) to track changes and collaborate with others on your terminal setup.
